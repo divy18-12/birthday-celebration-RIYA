@@ -15,13 +15,11 @@ function MessageCard({ isActive }) {
 
   const message = `[DEAR RIYAA/PANDA],
 
-Your personalized birthday message goes here.
+A very Happyyy Birthday to youuuu Riyaaa🥳
+Every laugh we share, every secret we keep, and every memory we create makes my life more beautiful
+ May this year bring you endless smiles, peace, and everything your heart desires 🤍
 
-You can write multiple paragraphs to express your feelings,
-share memories, and make this special day even more memorable.
-
-This template supports multiple lines and formatting,
-so feel free to customize it completely to fit your style.
+Always Stay Happy and keep smiling ❣️
 
 Happy Birthday! 🎉
 
